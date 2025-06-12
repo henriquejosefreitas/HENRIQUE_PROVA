@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Principal",
+      "email": "principal@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Adm",
+      "email": "Adm@gmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Gerente",
+      "email": "gerente@gmail.com"
+    },
+    {
+      "id": "33e5",
+      "nome": "Cristiano",
+      "email": "cristiano@gmail.com"
+    },
+    {
+      "id": "e809",
+      "nome": "Neymar",
+      "email": "neymar@email.com"
+    },
+    {
+      "id": "b972",
+      "nome": "nova marca",
+      "email": "cris@gmail.com"
+    }
+  ],
+  "livros": [
+    {
+      "descricao": "Simba",
+      "setor": "Gregory",
+      "prioridade": "Alta",
+      "status": "Pronto",
+      "usuario": "Neymar",
+      "id": "3f53"
+    },
+    {
+      "id": "f17f",
+      "descricao": "Sim",
+      "setor": "GG",
+      "prioridade": "Alta",
+      "status": "Fazendo",
+      "usuario": "Principal"
+    },
+    {
+      "id": "f6c8",
+      "descricao": "Sim",
+      "setor": "GG",
+      "prioridade": "Alta",
+      "status": "Pronto",
+      "usuario": "Adm"
+    },
+    {
+      "id": "0d7d",
+      "descricao": "Sim",
+      "setor":"GG",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "usuario": "Gerente"
+    },
+    {
+      "descricao": "Simba 2",
+      "setor":"GG",
+      "prioridade": "Alta",
+      "status": "Pronto",
+      "usuario": "Neymar",
+      "id": "740c"
+    }
+  ]
+}
